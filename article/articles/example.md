@@ -1,53 +1,9 @@
-The Beatles
-(from https://en.wikipedia.org)
+Linkin Park
 
-test de modif 2 
+Linkin Park is an American rock band from Agoura Hills, California. The band's current lineup comprises vocalist/rhythm guitarist/keyboardist Mike Shinoda, lead guitarist Brad Delson, bassist Dave Farrell, DJ/turntablist Joe Hahn and drummer Rob Bourdon, all of whom are founding members. Vocalists Mark Wakefield and Chester Bennington are former members of the band. Categorized as alternative rock, Linkin Park's earlier music spanned a fusion of heavy metal and hip hop, while their later music features more electronica and pop elements.
 
-The Beatles were an English rock band formed in Liverpool in 1960. With members
-John Lennon, Paul McCartney, George Harrison and Ringo Starr, they became
-regarded as the foremost and most influential music band in history. Rooted
-in skiffle, beat and 1950s rock and roll, the group were integral to pop music's
-evolution into an art form and to the development of the counterculture of the
-1960s. They often incorporated classical elements, older pop forms and
-unconventional recording techniques in innovative ways, and later experimented
-with several musical styles ranging from pop ballads and Indian music to
-psychedelia and hard rock. As the members continued to draw influences from a
-variety of cultural sources, their musical and lyrical sophistication grew, and
-they were seen as an embodiment of the era's sociocultural movements.
+Formed in 1996, Linkin Park rose to international fame with their debut studio album, Hybrid Theory (2000), which became certified Diamond by the Recording Industry Association of America (RIAA). Released during the peak of the nu metal scene, the album's singles' heavy airplay on MTV led the singles "One Step Closer", "Crawling" and "In the End" all to chart highly on the Mainstream Rock chart; the latter crossed over to the pop chart.[1] Their second album, Meteora (2003), continued the band's success.[2] The band explored experimental sounds on their third album, Minutes to Midnight (2007).[3] By the end of the decade, Linkin Park was among the most successful and popular rock acts.[4]
 
-Led by primary songwriters Lennon and McCartney, the Beatles built their
-reputation playing clubs in Liverpool and Hamburg over a three-year period from
-1960, with Stuart Sutcliffe initially serving as bass player. The core trio of
-Lennon, McCartney and Harrison, together since 1958, went through a succession
-of drummers, including Pete Best, before asking Starr to join them in 1962.
-Manager Brian Epstein moulded them into a professional act, and producer George
-Martin guided and developed their recordings, greatly expanding the group's
-homeland success after their first hit, "Love Me Do", in late 1962. As their
-popularity grew into the intense fan frenzy dubbed "Beatlemania", they acquired
-the nickname "the Fab Four", with Epstein, Martin, and other members of the
-band's entourage sometimes given the informal title of "fifth Beatle".
+The band continued to explore a wider variation of musical types on their fourth album, A Thousand Suns (2010), layering their music with more electronic sounds. The band's fifth album, Living Things (2012), combined musical elements from all of their previous records. Their sixth album, The Hunting Party (2014), returned to a heavier rock sound, and their seventh album, One More Light (2017), was their first pop-oriented record. Linkin Park went on a hiatus when longtime lead vocalist Bennington died by suicide in July 2017. In April 2020, bassist Dave Farrell revealed the band was working on new music, though they have stated they will not be touring for the foreseeable future.
 
-By early 1964, the Beatles were international stars, leading the "British
-Invasion" of the United States pop market and breaking numerous sales records.
-They soon made their motion picture debut with the mock-documentary A Hard Day's
-Night (1964). From 1965 onwards, they produced increasingly innovative
-recordings, including the albums Rubber Soul (1965), Revolver (1966), Sgt.
-Pepper's Lonely Hearts Club Band (1967), The Beatles (also known as the "White
-Album", 1968) and Abbey Road (1969). In 1968, they founded Apple Corps, a
-multi-armed multimedia corporation that remains active. After disbanding in
-1970, the four members each enjoyed success as solo artists. Lennon was shot and
-killed in December 1980, and Harrison died of lung cancer in November 2001.
-McCartney and Starr remain musically active.
-
-The Beatles are the best-selling band in history, with estimated sales of over
-800 million records worldwide. They are the best-selling music artists in the
-United States, with 178 million certified units. The group was inducted into the
-Rock and Roll Hall of Fame in 1988, and all four main members were inducted
-individually from 1994 to 2015. They have also had more number-one albums on the
-British charts and sold more singles in the UK than any other act. In 2008, the
-group topped Billboard magazine's list of the all-time most successful artists;
-as of 2017, they hold the record for most number-one hits on the Hot 100 chart
-with twenty. They have received seven Grammy Awards, an Academy Award for Best
-Original Song Score and fifteen Ivor Novello Awards. They were also collectively
-included in Time magazine's compilation of the twentieth century's 100 most
-influential people.
+Linkin Park is among the best-selling bands of the 21st century and the world's best-selling music artists, having sold over 100 million records worldwide.[5] They have won two Grammy Awards, six American Music Awards, two Billboard Music Awards, four MTV Video Music Awards, 10 MTV Europe Music Awards and three World Music Awards. In 2003, MTV2 named Linkin Park the sixth-greatest band of the music video era and the third-best of the new millennium. Billboard ranked Linkin Park No. 19 on the Best Artists of the Decade list. In 2012, the band was voted as the greatest artist of the 2000s in a Bracket Madness poll on VH1. In 2014, the band was declared as "The Biggest Rock Band in the World Right Now" by Kerrang!.
