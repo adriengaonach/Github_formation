@@ -1,40 +1,53 @@
-# Pink Floyd - The Wall
-## Claudio Satriano
-### From [https://en.wikipedia.org/wiki/The_Wall](https://en.wikipedia.org/wiki/The_Wall)
+The Beatles
+(from https://en.wikipedia.org)
 
-The Wall is the eleventh studio album by English rock band Pink Floyd, released
-in 1979 through Harvest and Columbia Records. Conceived during the In The Flesh
-tour, recording spanned nearly a year, from December 1978 to November 1979, and
-took place in France, England, New York, and Los Angeles. It was produced by Bob
-Erzin, who helped to refine the concept and bridge tensions during recording.
-Some of the outtakes from the recording sessions were used on the band's next
-album, The Final Cut (1983).
+test de modif 2 
 
-![cover](https://upload.wikimedia.org/wikipedia/en/1/13/PinkFloydWallCoverOriginalNoText.jpg)
+The Beatles were an English rock band formed in Liverpool in 1960. With members
+John Lennon, Paul McCartney, George Harrison and Ringo Starr, they became
+regarded as the foremost and most influential music band in history. Rooted
+in skiffle, beat and 1950s rock and roll, the group were integral to pop music's
+evolution into an art form and to the development of the counterculture of the
+1960s. They often incorporated classical elements, older pop forms and
+unconventional recording techniques in innovative ways, and later experimented
+with several musical styles ranging from pop ballads and Indian music to
+psychedelia and hard rock. As the members continued to draw influences from a
+variety of cultural sources, their musical and lyrical sophistication grew, and
+they were seen as an embodiment of the era's sociocultural movements.
 
-A rock opera and a concept record, its story explores Pink, a jaded rockstar
-that bassist Roger Waters modeled after himself and band founder Syd Barrett.
-Pink's life begins with the loss of his father during the Second World War and
-continues with abuse from his schoolteachers, an overprotective mother, and the
-breakdown of his marriage; all contribute to his eventual self-imposed isolation
-from society, symbolised by a wall. The band, who were then struggling with
-personal and financial difficulties, supported the idea. The Wall is the last
-album to feature Pink Floyd as a quartet; keyboardist Richard Wright was fired
-by Waters during production, but stayed on as a salaried musician. The record
-was promoted with three singles: "Another Brick in the Wall, Part 2", "Run Like
-Hell", and "Comfortably Numb", the first of which became the band's only number
-one single in the US. From 1980 to 1981, the group embarked on The Wall Tour,
-which was notable for its elaborate theatrical effects. The concept was later
-adapted into a feature film of the same name, directed by Alan Parker and
-released in 1982.
+Led by primary songwriters Lennon and McCartney, the Beatles built their
+reputation playing clubs in Liverpool and Hamburg over a three-year period from
+1960, with Stuart Sutcliffe initially serving as bass player. The core trio of
+Lennon, McCartney and Harrison, together since 1958, went through a succession
+of drummers, including Pete Best, before asking Starr to join them in 1962.
+Manager Brian Epstein moulded them into a professional act, and producer George
+Martin guided and developed their recordings, greatly expanding the group's
+homeland success after their first hit, "Love Me Do", in late 1962. As their
+popularity grew into the intense fan frenzy dubbed "Beatlemania", they acquired
+the nickname "the Fab Four", with Epstein, Martin, and other members of the
+band's entourage sometimes given the informal title of "fifth Beatle".
 
-The Wall received mixed reviews from critics upon its release, many of whom
-found its contents to be overblown and pretentious. Retrospectively, it is
-considered one of the greatest albums of all time, and is one of the most
-well-known concept albums. The record was a commercial success, reaching number
-one in the US (where it stayed for 15 weeks), and number three in the UK. As of
-2018, the album has sold over 24 million copies, the second best-selling in the
-band's catalog, as well as one of the best-selling of all time.
+By early 1964, the Beatles were international stars, leading the "British
+Invasion" of the United States pop market and breaking numerous sales records.
+They soon made their motion picture debut with the mock-documentary A Hard Day's
+Night (1964). From 1965 onwards, they produced increasingly innovative
+recordings, including the albums Rubber Soul (1965), Revolver (1966), Sgt.
+Pepper's Lonely Hearts Club Band (1967), The Beatles (also known as the "White
+Album", 1968) and Abbey Road (1969). In 1968, they founded Apple Corps, a
+multi-armed multimedia corporation that remains active. After disbanding in
+1970, the four members each enjoyed success as solo artists. Lennon was shot and
+killed in December 1980, and Harrison died of lung cancer in November 2001.
+McCartney and Starr remain musically active.
 
-> I think things like 'Comfortably Numb' were the last embers of mine and
-> Roger's ability to work collaboratively together. David Gilmour
+The Beatles are the best-selling band in history, with estimated sales of over
+800 million records worldwide. They are the best-selling music artists in the
+United States, with 178 million certified units. The group was inducted into the
+Rock and Roll Hall of Fame in 1988, and all four main members were inducted
+individually from 1994 to 2015. They have also had more number-one albums on the
+British charts and sold more singles in the UK than any other act. In 2008, the
+group topped Billboard magazine's list of the all-time most successful artists;
+as of 2017, they hold the record for most number-one hits on the Hot 100 chart
+with twenty. They have received seven Grammy Awards, an Academy Award for Best
+Original Song Score and fifteen Ivor Novello Awards. They were also collectively
+included in Time magazine's compilation of the twentieth century's 100 most
+influential people.
