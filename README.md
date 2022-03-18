@@ -1,3 +1,5 @@
 # Github_formation
 test
-test de modif locale
+
+this is remote change
+>>>>>>> origin/main
