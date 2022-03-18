@@ -4,4 +4,5 @@ test
 this is remote change
 >>>>>>> origin/main
 
-remote change 2
+modif locale 2
+>>>>>>> 25d583b (modif locale 2)
